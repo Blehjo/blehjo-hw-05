@@ -1,4 +1,4 @@
-# Workday Planner
+# Work Day Scheduler
 
 #Assignment that includes jquery, localstorage, and general javascript
 
