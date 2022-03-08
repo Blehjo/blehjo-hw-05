@@ -1,6 +1,4 @@
-# blehjo-hw-05
-
-#Workday Planner
+# Workday Planner
 
 #Assignment that includes jquery, localstorage, and general javascript
 
