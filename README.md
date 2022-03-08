@@ -2,7 +2,7 @@
 
 #Assignment that includes jquery, localstorage, and general javascript
 
-#https://blehjo.github.io/blehjo-hw-05/
+#https://blehjo.github.io/work-day-scheduler/
 
 #https://github.com/Blehjo/blehjo-hw-05https://github.com/Blehjo/blehjo-hw-05
 
